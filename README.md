@@ -49,11 +49,11 @@ void  loop() {
 
 ## Hardware Specification
 
-<p>                            | <p>
+Hardware                       | Details
 -------------------------------|-----------------------------
-**Input**                      | USB A Connection to the microcontroller
-**Input**                      | IEC C14 Mains Power input
-**Output**                     | UK Mains Output Type G
+**Data Input**                 | USB A Connection to the microcontroller
+**Power Input**                | IEC C14 Mains Power input
+**Power Output**               | UK Mains Output Type G
 **Microcontroller**            | Arduino Pro Mini clone
 **Relay**                      | 250VAC 10A Arduino Relay module
 **5V 2A USB power supply**     | Samsung USB 5V 2A GB4943-2001
